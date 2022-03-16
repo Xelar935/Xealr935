@@ -31,7 +31,7 @@
 
 ## How to reach me 📫
 
-- [![Linkedin Badge](https://img.shields.io/badge/-QuentinMorel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-granchere-081378204/)
+- [![Linkedin Badge](https://img.shields.io/badge/-alexandre-granchere-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-granchere-081378204/)
 - granchere.alex@gmail.com
 
 
