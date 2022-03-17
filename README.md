@@ -28,6 +28,7 @@
 
 - 2048 Bot 🧩🤖
 - self-stabilizing pendulum ⛓️
+- Web design
 
 ## How to reach me 📫
 
