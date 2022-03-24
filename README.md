@@ -15,7 +15,7 @@
 
 ## Programming Languages 💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xelar935&langs_count=10&hide=C,Objective-C,html&layout=compact&theme=tokyonight)](https://github.com/Xelar935?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xelar935&langs_count=10&,Objective-C,html&layout=compact&theme=tokyonight)](https://github.com/Xelar935?tab=repositories)
 
 ## Currently learning 🌱
 
