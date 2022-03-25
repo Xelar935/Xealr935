@@ -17,6 +17,17 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xelar935&langs_count=10&,Objective-C,html&layout=compact&theme=tokyonight)](https://github.com/Xelar935?tab=repositories)
 
+### Programming skills
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white">
+</p>
+
+
+
+
 ## Currently learning 🌱
 
 - C
