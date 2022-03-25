@@ -15,6 +15,13 @@
 
 ## Programming Languages 💻
 
+### OS I work on fluently 
+<p align='center'>
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+    <img src="https://img.shields.io/badge/Debian-BB0039?style=for-the-badge&logo=debian&logoColor=white">
+</p>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xelar935&langs_count=10&,Objective-C,html&layout=compact&theme=tokyonight)](https://github.com/Xelar935?tab=repositories)
 
 ### Programming skills
@@ -23,7 +30,7 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C++-1072EE?style=for-the-badge&logo=c++&logoColor=white">
+<img src="https://img.shields.io/badge/C++-1072EE?style=for-the-badge&logo=C++&logoColor=white">
   
 </p>
 
@@ -51,16 +58,6 @@
 
 <!--
 ## To do
-- NesEmulator
-- GameBoyEmulator (sound)
-- ResponsiveSideBar
-- AIEmotionRecognition
-- AIDigitsRecognizer
-- SpaceInvadersArcadeEmulator
-- Commodore64Emulator
-- VideoEnhancerHD
-- DroneControl
-- Im-Rises.github.io
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
